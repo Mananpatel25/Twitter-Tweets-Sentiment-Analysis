@@ -1,7 +1,6 @@
 # Tweet-Analyzer
 
-Web App Link : https://tweet-analyzer-tool.herokuapp.com/
-
+Run the app.py file in your computer or laptop to access it on local host.
 This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
 
 1.Analyze the tweets of your favourite Personalities
